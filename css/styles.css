@@ -1,0 +1,1275 @@
+
+@media screen and (min-width: 1200px){
+  
+.frame {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.istockphoto {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 38px;
+  right: 165px;
+  object-fit: cover;
+}
+
+.element-bandeira {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 38px;
+  right: 90px;
+  object-fit: cover;
+}
+
+.element-inglaterra {
+  position: absolute;
+  width: 84px;
+  height: 47px;
+  top: 35px;
+  right: 0px;
+  object-fit: cover;
+}
+
+.img {
+  position: absolute;
+  width: 136px;
+  height: 65px;
+  top: 26px;
+  left: 29px;
+  object-fit: cover;
+}
+
+.group-wrapper {
+  width: 100%;
+}
+
+.banner {
+  width: 100%;
+  padding-top: 7.5em;
+}
+
+/* .group {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-image: url(./img/captura-de-ecr-427-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+} */
+
+.overlap-group {
+  position: relative;
+  width: 1434px;
+  height: 585px;
+  left: 3px;
+  background-image: url(./img/rectangle-16.svg);
+  background-size: 100% 100%;
+}
+
+.div {
+  position: relative;
+  width: 820px;
+  height: 170px;
+  top: 208px;
+  left: 307px;
+  background-size: 100% 100%;
+}
+
+.frame-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 41px 65px;
+  padding: 100px 150px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 26px;
+  overflow: hidden;
+}
+
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 41px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.div-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 57px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 1px 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #6a422e;
+  border-radius: 22px;
+  border: 0px solid;
+}
+
+.text-wrapper {
+  position: relative;
+  width: 1120px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-top: 7px;
+}
+
+.frame-3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 60px 60px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame-4 {
+  position: relative;
+  width: 230.25px;
+  height: 77px;
+}
+
+.text-wrapper-2 {
+  top: -1px;
+  position: absolute;
+  width: 230px;
+  height: 77px;
+  left: 0;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #6a422e;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-top: 29px;
+}
+
+.rounded-rectangle {
+  position: absolute;
+  width: 230px;
+  height: 65px;
+  top: 6px;
+  left: 0;
+  border-radius: 23px;
+  border: 3px solid;
+  border-color: #6a422e;
+}
+
+.overlap-group-wrapper {
+  position: relative;
+  width: 230px;
+  height: 77px;
+}
+
+.overlap-group-2 {
+  position: relative;
+  height: 77px;
+  top: -1px;
+}
+
+.text-wrapper-3 {
+  top: 0;
+  position: absolute;
+  width: 230px;
+  height: 77px;
+  left: 0;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #6a422e;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-top: 29px;
+}
+
+.rectangle {
+  position: absolute;
+  width: 230px;
+  height: 65px;
+  top: 7px;
+  left: 0;
+  border-radius: 23px;
+  border: 3px solid;
+  border-color: #6a422e;
+}
+
+.frame-5 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 120px 120px;
+  padding: 95px 203px 80px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #6a422e;
+}
+
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  position: relative;
+  flex: 1;
+}
+
+.img-2 {
+  position: relative;
+  width: 100%;
+}
+
+.text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  height: 72px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame-7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 16px;
+  padding: 100px 50px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  margin-left: 50px;
+  margin-right:50px;
+}
+
+.captura-de-ecr {
+  position: relative;
+  width: 283px;
+  height: 470px;
+  object-fit: cover;
+  border-radius: 5em;
+}
+
+.p {
+  position: relative;
+  flex: 1;
+  margin-top: -1.00px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 2.5em;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.span {
+  font-weight: 700;
+}
+
+.text-wrapper-5 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  font-size: 0.7em;
+}
+
+.captura-de-ecr-2 {
+  position: relative;
+  width: 261px;
+  height: 469px;
+  object-fit: cover;
+  border-radius: 5em;
+}
+
+.frame-8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 52px;
+  padding: 83px 90px;
+  padding-right: 0px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #6a422e;
+}
+
+.map-maker-praa-da {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 385.33px;
+  object-fit: cover;
+}
+
+.terreiro-pra-a-da {
+  position: relative;
+  flex: 1;
+  height: 415px;
+  margin-top: -1.00px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-6 {
+  font-weight: 700;
+  color: #300200;
+  text-decoration: underline;
+}
+
+.text-wrapper-7 {
+  font-weight: 700;
+  color: #300200;
+}
+
+.text-wrapper-8 {
+  font-family: "Mairy-Regular", Helvetica;
+  color: #300200;
+}
+
+.text-wrapper-9 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  color: #300200;
+  text-decoration: underline;
+}
+
+.text-wrapper-10 {
+  font-family: "Mairy-Regular", Helvetica;
+  color: #000000;
+  text-decoration: underline;
+}
+
+.hor-rio-segunda {
+  position: relative;
+  flex: 1;
+  height: 415px;
+  margin-top: -1.00px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-11 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  color: #300200;
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
+.logo-instagram-png {
+  position: absolute;
+  width: 95px;
+  height: 95px;
+  top: 408px;
+  right: 220px;
+  background-blend-mode: soft-light;
+  object-fit: cover;
+}
+
+.element {
+  position: absolute;
+  width: 95px;
+  height: 95px;
+  top: 410px;
+  right: 100px;
+  background-blend-mode: soft-light;
+  object-fit: cover;
+}
+
+}
+
+
+@media screen and (max-width: 1199px) and (min-width:600px){
+
+.frame {
+  display: flex;
+  gap: 358px;
+  padding: 26px 29px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.img {
+  position: relative;
+  width: 136.28px;
+  height: 65px;
+  object-fit: cover;
+}
+
+.istockphoto {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 38px;
+  right: 165px;
+  object-fit: cover;
+}
+
+.element-bandeira {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 38px;
+  right: 90px;
+  object-fit: cover;
+}
+
+.element-inglaterra {
+  position: absolute;
+  width: 84px;
+  height: 47px;
+  top: 35px;
+  right: 0px;
+  object-fit: cover;
+}
+
+.group-wrapper {
+  width: 100%;
+}
+
+.banner {
+  width: 100%;
+}
+
+/* .group {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-image: url(./img/captura-de-ecr-427-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+} */
+
+.overlap-group {
+  position: relative;
+  width: 703px;
+  height: 367px;
+  left: 1px;
+  background-image: url(./img/rectangle-16.svg);
+  background-size: 100% 100%;
+}
+
+.div {
+  position: relative;
+  width: 402px;
+  height: 107px;
+  top: 130px;
+  left: 151px;
+  background-image: url(./img/frame.svg);
+  background-size: 100% 100%;
+}
+
+.frame-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 41px 65px;
+  padding: 100px 150px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 26px;
+  overflow: hidden;
+}
+
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 41px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.div-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 57px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 1px 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #6a422e;
+  border-radius: 22px;
+  border: 0px solid;
+}
+
+.text-wrapper {
+  position: relative;
+  width: 1120px;
+  margin-left: -367.00px;
+  margin-right: -367.00px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame-3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 47px 60px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame-4 {
+  position: relative;
+  width: 230.25px;
+  height: 77px;
+}
+
+.text-wrapper-2 {
+  top: -1px;
+  position: absolute;
+  width: 230px;
+  height: 77px;
+  left: 0;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #6a422e;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-top: 30px;
+}
+
+.rounded-rectangle {
+  position: absolute;
+  width: 230px;
+  height: 65px;
+  top: 6px;
+  left: 0;
+  border-radius: 23px;
+  border: 3px solid;
+  border-color: #6a422e;
+}
+
+.overlap-group-wrapper {
+  position: relative;
+  width: 230px;
+  height: 77px;
+}
+
+.overlap-group-2 {
+  position: relative;
+  height: 77px;
+  top: -1px;
+}
+
+.text-wrapper-3 {
+  top: 0;
+  position: absolute;
+  width: 230px;
+  height: 77px;
+  left: 0;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #6a422e;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-top: 30px;
+}
+
+.rectangle {
+  position: absolute;
+  width: 230px;
+  height: 65px;
+  top: 7px;
+  left: 0;
+  border-radius: 23px;
+  border: 3px solid;
+  border-color: #6a422e;
+}
+
+.frame-5 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 48px 48px;
+  padding: 95px 303px 80px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #6a422e;
+}
+
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  min-width: 200px;
+}
+
+.img-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  object-fit: cover;
+}
+
+.text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  height: 72px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+  padding: 100px 50px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.captura-de-ecr {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 879.68px;
+  object-fit: cover;
+  border-radius: 5em;
+}
+
+.p {
+  position: relative;
+  align-self: stretch;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-bottom: 1em;
+  padding-left: 0.5em;
+}
+
+.span {
+  font-weight: 700;
+}
+
+.text-wrapper-5 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  font-size: 36px;
+}
+
+.captura-de-ecr-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 1091.55px;
+  object-fit: cover;
+  border-radius: 5em;
+}
+
+.frame-8 {
+  display: flex;
+  height: 390px;
+  align-items: center;
+  gap: 20px;
+  padding: 0px 23px 0px 64px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #6a422e;
+  overflow: hidden;
+}
+
+.map-maker-praa-da {
+width: 0px;
+}
+
+.terreiro-pra-a-da {
+  position: relative;
+  width: 415px;
+  height: 264px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-6 {
+  font-weight: 700;
+  color: #300200;
+  text-decoration: underline;
+}
+
+.text-wrapper-7 {
+  font-weight: 700;
+  color: #300200;
+}
+
+.text-wrapper-8 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  color: #300200;
+}
+
+.text-wrapper-9 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  color: #300200;
+  text-decoration: underline;
+}
+
+.text-wrapper-10 {
+  font-family: "Mairy-Regular", Helvetica;
+  color: #000000;
+  text-decoration: underline;
+}
+
+.hor-rio-segunda {
+  position: relative;
+  width: 325px;
+  height: 264px;
+  margin-right: -23.00px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 400;
+  color: #300200;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-11 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+}
+
+.logo-instagram-png {
+  position: absolute;
+  width: 75px;
+  top: 232px;
+  left: 80px;
+  background-blend-mode: soft-light;
+  object-fit: cover;
+}
+
+.element {
+  position: absolute;
+  width: 75px;
+  top: 232px;
+  left: 160px;
+  background-blend-mode: soft-light;
+  object-fit: cover;
+}
+
+}
+
+
+@media screen and (max-width: 599px){
+
+/* *{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  background-color: #ffffff;
+  overflow: hidden;
+} */
+
+.frame {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  gap: 358px;
+  padding: 5px 29px 6px 13px;
+  position: relative;
+  margin-right: -2.00px;
+}
+
+.element-inglaterra {
+  position: absolute;
+  width: 53px;
+  height: 31px;
+  top: 9px;
+  right: 0px;
+  object-fit: cover;
+}
+
+.img {
+  position: relative;
+  width: 60px;
+  height: 28px;
+  object-fit: cover;
+}
+
+.istockphoto {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 11px;
+  right: 110px;
+  object-fit: cover;
+}
+
+.element-bandeira {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 11px;
+  right: 60px;
+  object-fit: cover;
+}
+
+.group-wrapper {
+  width: 100%;
+}
+
+.banner {
+  width: 100%;
+  padding-top: 0em;
+}
+
+/* .group {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  width: 100%;
+  flex-grow: 1;
+  background-image: url(./img/captura-de-ecr-427-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+} */
+
+.overlap-group {
+  position: relative;
+  width: 317px;
+  height: 163px;
+  left: 1px;
+  background-image: url(./img/rectangle-16.svg);
+  background-size: 100% 100%;
+}
+
+.div {
+  position: relative;
+  width: 181px;
+  height: 47px;
+  top: 58px;
+  left: 68px;
+  background-image: url(./img/frame.svg);
+  background-size: 100% 100%;
+}
+
+.frame-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 41px 65px;
+  padding: 100px 150px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  border-radius: 26px;
+  overflow: hidden;
+}
+
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 41px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.div-wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 57px;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 1px 10px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  background-color: #6a422e;
+  border-radius: 22px;
+  border: 0px solid;
+}
+
+.text-wrapper {
+  position: relative;
+  width: 1120px;
+  margin-left: -470.00px;
+  margin-right: -470.00px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame-3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 30px 30px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.frame-4 {
+  position: relative;
+  width: 230.25px;
+  height: 77px;
+  margin-left: -106.12px;
+  margin-right: -106.12px;
+}
+
+.text-wrapper-2 {
+  top: -1px;
+  position: absolute;
+  width: 230px;
+  height: 77px;
+  left: 0;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #6a422e;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-top: 30px;
+}
+
+.rounded-rectangle {
+  position: absolute;
+  width: 230px;
+  height: 65px;
+  top: 6px;
+  left: 0;
+  border-radius: 23px;
+  border: 3px solid;
+  border-color: #6a422e;
+}
+
+.overlap-group-wrapper {
+  position: relative;
+  width: 230px;
+  height: 77px;
+}
+
+.overlap-group-2 {
+  position: relative;
+  height: 77px;
+  top: -1px;
+}
+
+.text-wrapper-3 {
+  top: 0;
+  position: absolute;
+  width: 230px;
+  height: 77px;
+  left: 0;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #6a422e;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-top: 30px;
+}
+
+.rectangle {
+  position: absolute;
+  width: 230px;
+  height: 65px;
+  top: 7px;
+  left: 0;
+  border-radius: 23px;
+  border: 3px solid;
+  border-color: #6a422e;
+}
+
+.frame-5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 31px;
+  padding: 95px 50px 80px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #6a422e;
+}
+
+.frame-6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+  position: relative;
+  width: 100%;
+}
+
+.img-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  object-fit: cover;
+}
+
+.text-wrapper-4 {
+  position: relative;
+  align-self: stretch;
+  height: 72px;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+  padding: 100px 50px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.captura-de-ecr {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 316.45px;
+  object-fit: cover;
+  border-radius: 5em;
+}
+
+.p {
+  position: relative;
+  align-self: stretch;
+  font-family: "Mairy-Bold", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-bottom: 1em;
+  padding-left: 0.5em;
+}
+
+.span {
+  font-weight: 700;
+}
+
+.text-wrapper-5 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  font-size: 36px;
+}
+
+.captura-de-ecr-2 {
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  height: 392.67px;
+  object-fit: cover;
+  border-radius: 5em;
+}
+
+.frame-8 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 19px 30px;
+  padding: 43px 55px 86px 49px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+  background-color: #6a422e;
+}
+
+.map-maker-praa-da {
+width: 0px;
+}
+
+.terreiro-pra-a-da {
+  position: relative;
+  width: 247px;
+  height: 91px;
+  margin-top: -1.00px;
+  margin-right: -33.00px;
+  font-family: "Mairy-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-6 {
+  color: #300200;
+  text-decoration: underline;
+}
+
+.text-wrapper-7 {
+  color: #300200;
+}
+
+.text-wrapper-8 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  color: #300200;
+  text-decoration: underline;
+}
+
+.text-wrapper-9 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+  color: #300200;
+  text-decoration: underline;
+}
+
+.hor-rio-segunda {
+  position: relative;
+  width: 246px;
+  height: 188px;
+  margin-right: -32.00px;
+  font-family: "Mairy-Regular", Helvetica;
+  font-weight: 400;
+  color: #300200;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  padding-left: 30px;
+}
+
+.text-wrapper-10 {
+  font-family: "Mairy-Regular", Helvetica;
+  font-weight: 400;
+  color: #300200;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.text-wrapper-11 {
+  font-family: "Mairy-Thin", Helvetica;
+  font-weight: 100;
+}
+
+.logo-instagram-png {
+  position: absolute;
+  width: 50px;
+  top: 350px;
+  left: 70px;
+  background-blend-mode: soft-light;
+  object-fit: cover;
+}
+
+.element {
+  position: absolute;
+  width: 50px;
+  top: 350px;
+  left: 130px;
+  background-blend-mode: soft-light;
+  object-fit: cover;
+}
+
+}
